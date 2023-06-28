@@ -1,8 +1,7 @@
 # Freelancer Landing Page
-[link](url)
+([Demo](https://anmeshkov.github.io/freelancer-landing-page/)
 ___
-
-[img]
+![image](https://github.com/anmeshkov/freelancer-landing-page/assets/97451331/02fef1ac-79cb-45db-89e7-7a8e91aaf6eb)
 ___
 
 ## Общие технические требования
