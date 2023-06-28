@@ -1,5 +1,5 @@
 # Freelancer Landing Page
-([Demo](https://anmeshkov.github.io/freelancer-landing-page/)
+[Demo](https://anmeshkov.github.io/freelancer-landing-page/)
 ___
 ![image](https://github.com/anmeshkov/freelancer-landing-page/assets/97451331/02fef1ac-79cb-45db-89e7-7a8e91aaf6eb)
 ___
